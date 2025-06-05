@@ -17,6 +17,7 @@ public class Proyecto01_clase03 {
         num2 = lectura.nextDouble();
         
         //procesamiento
+        //COMENTARIO ADICIONAL
         suma = num1 + num2;
         promedio = suma / 2;
         
